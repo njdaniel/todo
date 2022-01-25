@@ -12,6 +12,7 @@ import (
 
 	"github.com/gobuffalo/buffalo-pop/v2/pop/popmw"
 	contenttype "github.com/gobuffalo/mw-contenttype"
+	"github.com/gobuffalo/packr/v2"
 	"github.com/gobuffalo/x/sessions"
 	"github.com/rs/cors"
 )
