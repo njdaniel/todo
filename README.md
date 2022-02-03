@@ -2,6 +2,11 @@
 
 ## Gettings Started
 
+### Requirements
+
+- [buffalo cli](https://gobuffalo.io/en/docs/getting-started/installation)
+- >=go.16
+
 ### Database Setup
 
 
