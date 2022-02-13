@@ -8,6 +8,7 @@ db-up:
 
 db-create:
 	buffalo db create --all
+	buffalo db migrate up
 
 seed:
 	@echo "seeding..."
